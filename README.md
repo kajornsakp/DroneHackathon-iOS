@@ -1,3 +1,8 @@
+# This is extended version of MediaManagerDemo from DJIMobileSDK
+## Changes
+- added firebase realtime database, firebase storage
+
+
 # iOS-MediaManagerDemo
 
 ## Introduction
